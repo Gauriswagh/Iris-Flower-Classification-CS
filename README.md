@@ -10,7 +10,7 @@ Algorithm used for predicting and get accuracy are -
 1. Logistic Regression
 2. Dicision tree classifier
 3. Random Forest
-4. SVM
+4. SVC
 5. K nearest classifier (KNN)
 
 This is easy and understable for machine learning staters.
