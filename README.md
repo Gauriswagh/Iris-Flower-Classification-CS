@@ -3,7 +3,7 @@
 
 ![iris](https://github.com/Gauriswagh/Iris-Flower-Classification-CS/assets/158807937/4c10fd10-3f9e-4548-a88a-5e2b02b8468f)
 
-This Project is thorugh application of machine learning with python programming. 
+This Project have very basic application (algorithms) of machine learning with python programming. 
 It focuses on IRIS flower classification using Machine Learning and tools. 
 Here some of algorithm are used which are some types of Machine learning algorithms of supervised and Unsupervised learning. 
 Algorithm used for predicting and get accuracy are -
