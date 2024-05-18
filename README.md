@@ -1,5 +1,7 @@
 # Iris-Flower-Classification-CS
 
+<img src="C:\Users\Admin\Pictures\Saved Pictures\iris">
+
 This Project is thorugh application of machine learning with python programming. 
 It focuses on IRIS flower classification using Machine Learning and tools. 
 Here some of algorithm are used which are some types of Machine learning algorithms of supervised and Unsupervised learning. 
